@@ -29,8 +29,9 @@
 - ภาพรวมระดับภูมิภาค
 
 เป้าหมายคือสร้างความเข้าใจเบื้องต้นว่าไทยพึ่งพาตลาดใดเป็นหลัก
+
 <img width="1392" height="680" alt="newplot" src="https://github.com/user-attachments/assets/886f841e-1ed9-41fb-a5d4-41ced0cf53d1" />
-**กราฟ Q1.1 TOP 10 COUNTRIES BY YTD ARRIVALS**
+# Q1.1 TOP 10 COUNTRIES BY YTD ARRIVALS
 
 แสดงประเทศที่ส่งนักท่องเที่ยวเข้ามาประเทศไทยมากที่สุดในปี 2025 (YTD)
 โดยเห็นได้ชัดว่า Malaysia และ China เป็นตลาดหลักที่มีจำนวนนักท่องเที่ยวสูงกว่าประเทศอื่นอย่างโดดเด่น
@@ -41,6 +42,7 @@
 *   ช่องว่างระหว่าง Top 2 กับประเทศอื่นค่อนข้างสูง สะท้อนถึงการพึ่งพาตลาดหลัก
 
 ดังนั้น กราฟนี้ชี้ให้เห็นว่า “Malaysia และ China คือแกนหลักของ demand การท่องเที่ยวไทย” และเป็นตลาดที่มีอิทธิพลต่อภาพรวมของอุตสาหกรรมมากที่สุด
+
 <img width="1497" height="720" alt="1 2" src="https://github.com/user-attachments/assets/b1f119a3-1dab-4b5c-b083-7a5fee13f252" />
 **กราฟ Q1.2 MARKET SHARE OF TOP 10**
 
@@ -56,6 +58,7 @@
 *   ไทยยังคงพึ่งพาตลาดหลักในภูมิภาคเอเชียเป็นหลัก
 *   หากเกิดการเปลี่ยนแปลงในตลาดเหล่านี้ อาจส่งผลกระทบต่อภาพรวมได้อย่างมีนัยสำคัญ
 ดังนั้น กราฟนี้สะท้อนให้เห็นว่า “โครงสร้าง demand ของการท่องเที่ยวไทยยังคงพึ่งพาตลาดหลักอย่างชัดเจน”
+
 <img width="1497" height="680" alt="1 3" src="https://github.com/user-attachments/assets/577fbe1b-9ede-44ab-9a3f-870b6454a2d0" />
 **กราฟ Q1.3 REGION COMPARISON**
 
@@ -87,7 +90,7 @@
 - เดือนที่มีนักท่องเที่ยวต่ำสุด (Low)
 - ความแตกต่างของ pattern การเดินทางในแต่ละประเทศ
 
-- <img width="1497" height="680" alt="2 1" src="https://github.com/user-attachments/assets/ebaa96d3-654b-44c7-9aa2-bbb4278a2c85" />
+<img width="1497" height="680" alt="2 1" src="https://github.com/user-attachments/assets/ebaa96d3-654b-44c7-9aa2-bbb4278a2c85" />
 **กราฟ Q2.1 MONTHLY TOTAL ARRIVALS**
 
 แสดงแนวโน้มจำนวนนักท่องเที่ยวรวมของไทยในแต่ละเดือนตลอดปี 2025  
@@ -109,6 +112,7 @@
 - สนับสนุนการตั้งราคาแบบ **dynamic pricing** ตามฤดูกาล  
 
 ดังนั้น กราฟนี้ยืนยันว่า **“การท่องเที่ยวไทยมีฤดูกาลที่ชัดเจน และ demand ไม่ได้กระจายเท่ากันตลอดปี”**
+
 <img width="1497" height="740" alt="2 2" src="https://github.com/user-attachments/assets/32412ef3-6227-4b78-91a5-4b6cd4093105" />
 **Q2.2 TOP 5 COUNTRIES SEASONALITY**
 
@@ -132,6 +136,7 @@
 - เพิ่มประสิทธิภาพในการวางแผนเที่ยวบิน โรงแรม และโปรโมชัน
 
 ดังนั้น กราฟนี้สะท้อนว่า **“แต่ละตลาดมีพฤติกรรมการเดินทางต่างกัน และสามารถใช้ความต่างนี้เป็นโอกาสเชิงกลยุทธ์ได้”**
+
 <img width="1497" height="580" alt="2 3" src="https://github.com/user-attachments/assets/b7ebebe9-e333-40f9-a8f7-9f2b339c8fa7" />
 **Q2.3 HEATMAP SEASONALITY**
 
@@ -193,6 +198,7 @@ Q3.1 TOP GROWTH MARKETS
 - หากตลาดใดมีทั้ง **growth สูง + ขนาดใหญ่** จะกลายเป็น **Strategic priority**
 
 ดังนั้น กราฟนี้สะท้อนว่า **“ตลาดที่เติบโตเร็วคือสัญญาณของโอกาสใหม่ แต่ต้องพิจารณาร่วมกับขนาดตลาดเพื่อกำหนดกลยุทธ์ที่เหมาะสม”**
+
 <img width="1497" height="680" alt="3 2" src="https://github.com/user-attachments/assets/cf199b61-10b7-4e56-a71e-5c4ee8eb1200" />
 ### Q3.2 DECLINING MARKETS
 
@@ -215,6 +221,7 @@ Q3.1 TOP GROWTH MARKETS
 - สนับสนุนการกระจายตลาดเพื่อลดความเสี่ยงในระยะยาว  
 
 ดังนั้น กราฟนี้ชี้ให้เห็นว่า **“การเติบโตของตลาดไม่ได้เป็นบวกทั้งหมด และบางตลาดสำคัญกำลังชะลอตัวลง”**
+
 <img width="1497" height="780" alt="3 3" src="https://github.com/user-attachments/assets/4287e1e3-3b5a-4c57-b589-25c4ac749744" />
 
 **Q3.3 SIZE VS GROWTH BUBBLE CHART**
